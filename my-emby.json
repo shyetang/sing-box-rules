@@ -14,13 +14,15 @@
                 "d.vemby01.de",
                 "emby.bangumi.ca",
                 "ap-cn01.emby.bangumi.ca",
-                "ap-cn02.emby.bangumi.ca"
+                "ap-cn02.emby.bangumi.ca",
+                "airplane.nubebelle.com"
             ],
             "domain_suffix": [
                 "vemby01.de",
                 "okemby.org",
                 "emby.bangumi.ca",
-                "bangumi.ca"
+                "bangumi.ca",
+                "nubebelle.com"
             ],
             "domain_keyword": ["emby"]
         }
