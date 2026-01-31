@@ -1,0 +1,28 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "link00.okemby.org",
+                "link01.okemby.org",
+                "guaiguaiemby.83787.de",
+                "dadakuai.552554.xyz",
+                "cf.vemby01.de",
+                "dx1.vemby01.de",
+                "yd1.vemby01.de",
+                "lt1.vemby01.de",
+                "d.vemby01.de",
+                "emby.bangumi.ca",
+                "ap-cn01.emby.bangumi.ca",
+                "ap-cn02.emby.bangumi.ca"
+            ],
+            "domain_suffix": [
+                "vemby01.de",
+                "okemby.org",
+                "emby.bangumi.ca",
+                "bangumi.ca"
+            ],
+            "domain_keyword": ["emby"]
+        }
+    ]
+}
