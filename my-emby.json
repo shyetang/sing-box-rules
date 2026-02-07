@@ -7,24 +7,26 @@
                 "link01.okemby.org",
                 "guaiguaiemby.83787.de",
                 "dadakuai.552554.xyz",
-                "cf.vemby01.de",
-                "dx1.vemby01.de",
-                "yd1.vemby01.de",
-                "lt1.vemby01.de",
-                "d.vemby01.de",
                 "emby.bangumi.ca",
                 "ap-cn01.emby.bangumi.ca",
                 "ap-cn02.emby.bangumi.ca",
-                "airplane.nubebelle.com"
+                "airplane.nubebelle.com",
+                "emos.yu-wu.top",
+                "emos.dirige.de5.net",
+                "www.lilyemby.com",
+                "tx.lilyemby.com",
+                "aliyun.lilyemby.com",
+                "emby.dnscf.dpdns.org",
+                "cf.wedg.top",
+                "emby.nas.edu.kg",
+                "cdn.luxrealm.space"
             ],
             "domain_suffix": [
-                "vemby01.de",
                 "okemby.org",
                 "emby.bangumi.ca",
                 "bangumi.ca",
                 "nubebelle.com"
-            ],
-            "domain_keyword": ["emby"]
+            ]
         }
     ]
 }

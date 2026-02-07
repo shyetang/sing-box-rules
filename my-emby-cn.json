@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "cdn.lilyemby.com",
+                "dadakuai.552554.xyz",
+                "emos.200038.xyz",
+                "cf.vemby01.de"
+            ],
+            "domain_suffix": ["vemby01.de"]
+        }
+    ]
+}
